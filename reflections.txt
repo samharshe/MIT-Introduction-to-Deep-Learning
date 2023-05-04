@@ -1,0 +1,11 @@
+I didn't code at all while taking these notes, so I might as well have done them in txt files.
+
+I'm not going to resummarize the technical details of all these models. I want this reflection to be a little larger and a little vaguer.
+
+There's a lot of math in machine learning. I knew that, but I know it better now. To be able to calculate the mathematcial properties of different architectures quickly and easily is a superpower.
+
+I don't know what the creative process that produces new models is, but I get the feeling it's something like "this equation has properties kind of like our system" or "this architecture is sort of similar to what we're trying to model," then try the model, then "oh it works" or "oh well it was worth a shot."
+
+I can feel myself fatiguing a bit. The math here is too fudgy. I want to learn more physics. I'm not a huge stats guy as it is, and some of this is less satisfying than stats even. I wish we had better models for why this stuff works.
+
+It's insanely powerful stuff, though, and it's pretty fun, and it's not too steep to get into, so I'll start making some more things and see where I get.
